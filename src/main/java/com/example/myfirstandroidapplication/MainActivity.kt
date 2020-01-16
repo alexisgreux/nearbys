@@ -91,6 +91,6 @@ class MainActivity : AppCompatActivity() {
 //REQUEST CODE = IDENTIFIANT POUR DÉFINIR UN CHEMIN VERS UNE ACTIVITÉ
             startActivityForResult(signupIntent, REQUEST_CODE_SIGNUP)
         }
-
+@
     }
 }
