@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirstAndroidApplication</string>
+    <string name="placeholder_login">Nom d\'utilisateur</string>
+    <string name="placeholder_password">Mot de passe</string>
+    <string name="buttin_signin">Se connecter</string>
+    <string name="buttton_signup">S\'inscrire</string>
+    <string name="button_signin">Se connecter</string>
+    <string name="label_success_login">Connexion réussie</string>
+    <string name="label_failure_login">Connexion échouée</string>
+</resources>
